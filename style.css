@@ -1,0 +1,27 @@
+
+#artworks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.artwork {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+
+.artwork img {
+    max-width: 100%;
+}
+
+
+.artwork h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+  
+
+  
